@@ -1,3 +1,8 @@
+Deploying my project on internet through vercel app
+you can visit on my project through this link:-
+https://notesapp-kappa-self.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
